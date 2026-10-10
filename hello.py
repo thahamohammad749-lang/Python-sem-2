@@ -1,5 +1,5 @@
 a = int(input("pehla number dalo"))
-b =int(input(" dusra number dalo"))
+b = int(input(" dusra number dalo"))
 
 
 print("Addition:",a + b)
